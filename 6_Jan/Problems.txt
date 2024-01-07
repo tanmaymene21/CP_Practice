@@ -1,0 +1,7 @@
+So these are the problems for 6/1/24(Saturday)
+Codeforces/Codechef:
+1)https://codeforces.com/problemset/problem/1704/B
+2)https://codeforces.com/problemset/problem/1618/C
+Leetcode:
+3)https://leetcode.com/problems/naming-a-company/description/
+4)https://leetcode.com/problems/non-decreasing-array/description/

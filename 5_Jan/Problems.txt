@@ -1,0 +1,7 @@
+So these are the problems for 5/1/24(Friday)
+Codeforces/Codechef:
+1)https://codeforces.com/problemset/problem/1904/B
+2)https://codeforces.com/problemset/problem/1883/C
+Leetcode:
+3)https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/
+4)https://leetcode.com/problems/max-points-on-a-line/

@@ -1,3 +1,4 @@
+https://www.codechef.com/problems/SUBARRY
 #include <bits/stdc++.h>
 using namespace std;
 

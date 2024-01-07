@@ -1,0 +1,8 @@
+So these are the problems for 3/1/23(Wednesday)
+Codeforces/Codechef:
+1)https://codeforces.com/problemset/problem/572/A
+2)https://codeforces.com/problemset/problem/300/A
+Leetcode:
+3)https://leetcode.com/problems/3sum/description/
+4)https://leetcode.com/problems/largest-number/description/
+Solutions will be posted tomorrow with explanations, so make sure you try to solve them

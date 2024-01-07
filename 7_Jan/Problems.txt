@@ -1,0 +1,7 @@
+So these are the problems for 7/1/24(Sunday)
+Codeforces/Codechef:
+1)https://codeforces.com/contest/1857/problem/A
+2)https://codeforces.com/contest/1828/problem/B
+Leetcode:
+3)https://leetcode.com/problems/4sum/description/
+4)https://leetcode.com/problems/merge-sorted-array/description/
