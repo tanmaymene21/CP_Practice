@@ -1,0 +1,7 @@
+Problems for 8/1/24(Monday)
+Codeforces/Codechef:
+1)https://codeforces.com/contest/1907/problem/C
+2)https://codeforces.com/problemset/problem/1725/B
+Leetcode:
+3)https://www.codingninjas.com/studio/problems/allocate-books_1090540
+4)https://leetcode.com/problems/minimum-window-substring/

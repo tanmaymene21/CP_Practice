@@ -1,0 +1,8 @@
+So these are the problems for 10/1/24(Wednesday)
+Codeforces/Codechef:
+1)https://codeforces.com/problemset/problem/1725/B
+2)https://codeforces.com/problemset/problem/1374/C
+Leetcode:
+3)https://leetcode.com/problems/integer-to-roman/description/
+4)https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
+Solutions will be posted tomorrow with explanations, so make sure you try to solve them.
